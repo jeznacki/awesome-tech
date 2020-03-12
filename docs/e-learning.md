@@ -196,6 +196,7 @@
 - [edx.org: Introduction to Python for Data Science (Microsoft)](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x)
 - [Coursera](http://coursera.org)
 - [Codecademy](https://www.codecademy.com)
+- [Engxam: Daily practice - Free Cambridge exams preparation exercises](https://engxam.com/daily-practice/) 
 - [Udacity](https://www.udacity.com/)
 	- [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
 - [Guru99: Selenium,QTP,Java, SAP,Test Management, Linux,Ethical Hacking, Mobile Testing,Accounting, etc](http://www.guru99.com/)
